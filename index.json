@@ -1,0 +1,131 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-15",
+  "repositoryUrl": "https://github.com/YOUR_USERNAME/animation-templates",
+  "templates": [
+    {
+      "id": "bouncing-ball",
+      "name": "Bouncing Ball",
+      "description": "A simple ball bouncing with realistic physics motion",
+      "difficulty": "beginner",
+      "category": "motion",
+      "tags": ["physics", "simple", "tutorial"],
+      "frameCount": 6,
+      "fps": 12,
+      "duration": 500,
+      "author": "Animation Studio",
+      "version": "1.0",
+      "previewUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/bouncing-ball/preview.gif",
+      "thumbnailUrl": null,
+      "dataUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/bouncing-ball/template.json",
+      "featured": true
+    },
+    {
+      "id": "blinking-eyes",
+      "name": "Blinking Eyes",
+      "description": "Two eyes that blink naturally - perfect for character animations",
+      "difficulty": "beginner",
+      "category": "character",
+      "tags": ["character", "eyes", "face"],
+      "frameCount": 4,
+      "fps": 8,
+      "duration": 500,
+      "author": "Animation Studio",
+      "version": "1.0",
+      "previewUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/blinking-eyes/preview.gif",
+      "thumbnailUrl": null,
+      "dataUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/blinking-eyes/template.json",
+      "featured": true
+    },
+    {
+      "id": "spinning-star",
+      "name": "Spinning Star",
+      "description": "A star rotating smoothly - great for loading indicators or decorations",
+      "difficulty": "beginner",
+      "category": "effect",
+      "tags": ["rotation", "simple", "loading"],
+      "frameCount": 8,
+      "fps": 12,
+      "duration": 667,
+      "author": "Animation Studio",
+      "version": "1.0",
+      "previewUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/spinning-star/preview.gif",
+      "thumbnailUrl": null,
+      "dataUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/spinning-star/template.json",
+      "featured": true
+    },
+    {
+      "id": "pulsing-heart",
+      "name": "Pulsing Heart",
+      "description": "A heart that beats with a lovely pulse effect",
+      "difficulty": "beginner",
+      "category": "effect",
+      "tags": ["heart", "pulse", "love"],
+      "frameCount": 6,
+      "fps": 12,
+      "duration": 500,
+      "author": "Animation Studio",
+      "version": "1.0",
+      "previewUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/pulsing-heart/preview.gif",
+      "thumbnailUrl": null,
+      "dataUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/pulsing-heart/template.json",
+      "featured": true
+    },
+    {
+      "id": "loading-dots",
+      "name": "Loading Dots",
+      "description": "Three dots that animate in sequence - classic loading indicator",
+      "difficulty": "beginner",
+      "category": "effect",
+      "tags": ["loading", "dots", "ui"],
+      "frameCount": 8,
+      "fps": 12,
+      "duration": 667,
+      "author": "Animation Studio",
+      "version": "1.0",
+      "previewUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/loading-dots/preview.gif",
+      "thumbnailUrl": null,
+      "dataUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/loading-dots/template.json",
+      "featured": false
+    },
+    {
+      "id": "waving-hand",
+      "name": "Waving Hand",
+      "description": "A friendly hand waving hello - great for greetings",
+      "difficulty": "intermediate",
+      "category": "character",
+      "tags": ["hand", "wave", "greeting"],
+      "frameCount": 8,
+      "fps": 12,
+      "duration": 667,
+      "author": "Animation Studio",
+      "version": "1.0",
+      "previewUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/waving-hand/preview.gif",
+      "thumbnailUrl": null,
+      "dataUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/waving-hand/template.json",
+      "featured": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "motion",
+      "name": "Motion",
+      "description": "Moving objects with physics and timing"
+    },
+    {
+      "id": "character",
+      "name": "Character",
+      "description": "Faces, body parts, and expressions"
+    },
+    {
+      "id": "effect",
+      "name": "Effects",
+      "description": "Visual effects and decorations"
+    },
+    {
+      "id": "logo",
+      "name": "Logo",
+      "description": "Brand and text animations"
+    }
+  ]
+}
