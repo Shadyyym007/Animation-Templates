@@ -1,0 +1,93 @@
+{
+  "name": "Loading Dots",
+  "description": "Three dots that animate in sequence - classic loading indicator",
+  "version": "1.0",
+  "author": "Animation Studio",
+  "difficulty": "beginner",
+  "category": "effect",
+  "tags": ["loading", "dots", "ui"],
+  "fps": 12,
+  "canvasSize": {"width": 400, "height": 300},
+  "frames": [
+    {
+      "id": 1, "duration": 83,
+      "layers": [{"id": 1, "name": "Dots Layer", "visible": true, "locked": false, "objects": [1, 2, 3], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 150, "y": 135, "width": 20, "height": 20, "fillColor": "#007bff", "strokeColor": "#0056b3", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "circle", "x": 190, "y": 135, "width": 20, "height": 20, "fillColor": "#6c757d", "strokeColor": "#495057", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 0.3, "locked": false},
+        {"id": 3, "layerId": 1, "shape": "circle", "x": 230, "y": 135, "width": 20, "height": 20, "fillColor": "#6c757d", "strokeColor": "#495057", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 0.3, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": 2, "duration": 83,
+      "layers": [{"id": 1, "name": "Dots Layer", "visible": true, "locked": false, "objects": [1, 2, 3], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 150, "y": 135, "width": 20, "height": 20, "fillColor": "#007bff", "strokeColor": "#0056b3", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "circle", "x": 190, "y": 135, "width": 20, "height": 20, "fillColor": "#007bff", "strokeColor": "#0056b3", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false},
+        {"id": 3, "layerId": 1, "shape": "circle", "x": 230, "y": 135, "width": 20, "height": 20, "fillColor": "#6c757d", "strokeColor": "#495057", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 0.3, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": 3, "duration": 83,
+      "layers": [{"id": 1, "name": "Dots Layer", "visible": true, "locked": false, "objects": [1, 2, 3], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 150, "y": 135, "width": 20, "height": 20, "fillColor": "#007bff", "strokeColor": "#0056b3", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "circle", "x": 190, "y": 135, "width": 20, "height": 20, "fillColor": "#007bff", "strokeColor": "#0056b3", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false},
+        {"id": 3, "layerId": 1, "shape": "circle", "x": 230, "y": 135, "width": 20, "height": 20, "fillColor": "#007bff", "strokeColor": "#0056b3", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": 4, "duration": 83,
+      "layers": [{"id": 1, "name": "Dots Layer", "visible": true, "locked": false, "objects": [1, 2, 3], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 150, "y": 135, "width": 20, "height": 20, "fillColor": "#6c757d", "strokeColor": "#495057", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 0.3, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "circle", "x": 190, "y": 135, "width": 20, "height": 20, "fillColor": "#007bff", "strokeColor": "#0056b3", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false},
+        {"id": 3, "layerId": 1, "shape": "circle", "x": 230, "y": 135, "width": 20, "height": 20, "fillColor": "#007bff", "strokeColor": "#0056b3", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": 5, "duration": 83,
+      "layers": [{"id": 1, "name": "Dots Layer", "visible": true, "locked": false, "objects": [1, 2, 3], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 150, "y": 135, "width": 20, "height": 20, "fillColor": "#6c757d", "strokeColor": "#495057", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 0.3, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "circle", "x": 190, "y": 135, "width": 20, "height": 20, "fillColor": "#6c757d", "strokeColor": "#495057", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 0.3, "locked": false},
+        {"id": 3, "layerId": 1, "shape": "circle", "x": 230, "y": 135, "width": 20, "height": 20, "fillColor": "#007bff", "strokeColor": "#0056b3", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": 6, "duration": 83,
+      "layers": [{"id": 1, "name": "Dots Layer", "visible": true, "locked": false, "objects": [1, 2, 3], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 150, "y": 135, "width": 20, "height": 20, "fillColor": "#6c757d", "strokeColor": "#495057", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 0.3, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "circle", "x": 190, "y": 135, "width": 20, "height": 20, "fillColor": "#6c757d", "strokeColor": "#495057", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 0.3, "locked": false},
+        {"id": 3, "layerId": 1, "shape": "circle", "x": 230, "y": 135, "width": 20, "height": 20, "fillColor": "#007bff", "strokeColor": "#0056b3", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": 7, "duration": 83,
+      "layers": [{"id": 1, "name": "Dots Layer", "visible": true, "locked": false, "objects": [1, 2, 3], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 150, "y": 135, "width": 20, "height": 20, "fillColor": "#007bff", "strokeColor": "#0056b3", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "circle", "x": 190, "y": 135, "width": 20, "height": 20, "fillColor": "#6c757d", "strokeColor": "#495057", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 0.3, "locked": false},
+        {"id": 3, "layerId": 1, "shape": "circle", "x": 230, "y": 135, "width": 20, "height": 20, "fillColor": "#007bff", "strokeColor": "#0056b3", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": 8, "duration": 83,
+      "layers": [{"id": 1, "name": "Dots Layer", "visible": true, "locked": false, "objects": [1, 2, 3], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 150, "y": 135, "width": 20, "height": 20, "fillColor": "#007bff", "strokeColor": "#0056b3", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "circle", "x": 190, "y": 135, "width": 20, "height": 20, "fillColor": "#6c757d", "strokeColor": "#495057", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 0.3, "locked": false},
+        {"id": 3, "layerId": 1, "shape": "circle", "x": 230, "y": 135, "width": 20, "height": 20, "fillColor": "#6c757d", "strokeColor": "#495057", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 0.3, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    }
+  ]
+}
