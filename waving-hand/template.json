@@ -1,0 +1,85 @@
+{
+  "name": "Waving Hand",
+  "description": "A friendly hand waving hello - great for greetings",
+  "version": "1.0",
+  "author": "Animation Studio",
+  "difficulty": "intermediate",
+  "category": "character",
+  "tags": ["hand", "wave", "greeting"],
+  "fps": 12,
+  "canvasSize": {"width": 400, "height": 300},
+  "frames": [
+    {
+      "id": 1, "duration": 83,
+      "layers": [{"id": 1, "name": "Hand Layer", "visible": true, "locked": false, "objects": [1, 2], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 180, "y": 130, "width": 40, "height": 50, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "rectangle", "x": 185, "y": 160, "width": 30, "height": 60, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": 2, "duration": 83,
+      "layers": [{"id": 1, "name": "Hand Layer", "visible": true, "locked": false, "objects": [1, 2], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 180, "y": 130, "width": 40, "height": 50, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": 0.3, "opacity": 1, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "rectangle", "x": 185, "y": 160, "width": 30, "height": 60, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": 0.2, "opacity": 1, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": 3, "duration": 83,
+      "layers": [{"id": 1, "name": "Hand Layer", "visible": true, "locked": false, "objects": [1, 2], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 180, "y": 130, "width": 40, "height": 50, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": -0.3, "opacity": 1, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "rectangle", "x": 185, "y": 160, "width": 30, "height": 60, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": -0.2, "opacity": 1, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": 4, "duration": 83,
+      "layers": [{"id": 1, "name": "Hand Layer", "visible": true, "locked": false, "objects": [1, 2], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 180, "y": 130, "width": 40, "height": 50, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "rectangle", "x": 185, "y": 160, "width": 30, "height": 60, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": 5, "duration": 83,
+      "layers": [{"id": 1, "name": "Hand Layer", "visible": true, "locked": false, "objects": [1, 2], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 180, "y": 130, "width": 40, "height": 50, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": 0.3, "opacity": 1, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "rectangle", "x": 185, "y": 160, "width": 30, "height": 60, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": 0.2, "opacity": 1, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": 6, "duration": 83,
+      "layers": [{"id": 1, "name": "Hand Layer", "visible": true, "locked": false, "objects": [1, 2], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 180, "y": 130, "width": 40, "height": 50, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": -0.3, "opacity": 1, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "rectangle", "x": 185, "y": 160, "width": 30, "height": 60, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": -0.2, "opacity": 1, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": 7, "duration": 83,
+      "layers": [{"id": 1, "name": "Hand Layer", "visible": true, "locked": false, "objects": [1, 2], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 180, "y": 130, "width": 40, "height": 50, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "rectangle", "x": 185, "y": 160, "width": 30, "height": 60, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": 0, "opacity": 1, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": 8, "duration": 83,
+      "layers": [{"id": 1, "name": "Hand Layer", "visible": true, "locked": false, "objects": [1, 2], "order": 0}],
+      "objects": [
+        {"id": 1, "layerId": 1, "shape": "circle", "x": 180, "y": 130, "width": 40, "height": 50, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": 0.3, "opacity": 1, "locked": false},
+        {"id": 2, "layerId": 1, "shape": "rectangle", "x": 185, "y": 160, "width": 30, "height": 60, "fillColor": "#ffcc99", "strokeColor": "#cc9966", "strokeWidth": 2, "filled": true, "rotation": 0.2, "opacity": 1, "locked": false}
+      ],
+      "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    }
+  ]
+}
