@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "lastUpdated": "2025-01-15",
-  "repositoryUrl": "https://github.com/YOUR_USERNAME/animation-templates",
+  "repositoryUrl": "https://github.com/Shadyyym007/animation-templates",
   "templates": [
     {
       "id": "bouncing-ball",
@@ -15,9 +15,9 @@
       "duration": 500,
       "author": "Animation Studio",
       "version": "1.0",
-      "previewUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/bouncing-ball/preview.gif",
+      "previewUrl": "https://raw.githubusercontent.com/Shadyyym007/animation-templates/main/bouncing-ball/preview.gif",
       "thumbnailUrl": null,
-      "dataUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/bouncing-ball/template.json",
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/animation-templates/main/bouncing-ball/template.json",
       "featured": true
     },
     {
@@ -32,9 +32,9 @@
       "duration": 500,
       "author": "Animation Studio",
       "version": "1.0",
-      "previewUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/blinking-eyes/preview.gif",
+      "previewUrl": "https://raw.githubusercontent.com/Shadyyym007/animation-templates/main/blinking-eyes/preview.gif",
       "thumbnailUrl": null,
-      "dataUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/blinking-eyes/template.json",
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/animation-templates/main/blinking-eyes/template.json",
       "featured": true
     },
     {
@@ -49,9 +49,9 @@
       "duration": 667,
       "author": "Animation Studio",
       "version": "1.0",
-      "previewUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/spinning-star/preview.gif",
+      "previewUrl": "https://raw.githubusercontent.com/Shadyyym007/animation-templates/main/spinning-star/preview.gif",
       "thumbnailUrl": null,
-      "dataUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/spinning-star/template.json",
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/animation-templates/main/spinning-star/template.json",
       "featured": true
     },
     {
@@ -66,9 +66,9 @@
       "duration": 500,
       "author": "Animation Studio",
       "version": "1.0",
-      "previewUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/pulsing-heart/preview.gif",
+      "previewUrl": "https://raw.githubusercontent.com/Shadyyym007/animation-templates/main/pulsing-heart/preview.gif",
       "thumbnailUrl": null,
-      "dataUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/pulsing-heart/template.json",
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/animation-templates/main/pulsing-heart/template.json",
       "featured": true
     },
     {
@@ -83,9 +83,9 @@
       "duration": 667,
       "author": "Animation Studio",
       "version": "1.0",
-      "previewUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/loading-dots/preview.gif",
+      "previewUrl": "https://raw.githubusercontent.com/Shadyyym007/animation-templates/main/loading-dots/preview.gif",
       "thumbnailUrl": null,
-      "dataUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/loading-dots/template.json",
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/animation-templates/main/loading-dots/template.json",
       "featured": false
     },
     {
@@ -100,9 +100,9 @@
       "duration": 667,
       "author": "Animation Studio",
       "version": "1.0",
-      "previewUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/waving-hand/preview.gif",
+      "previewUrl": "https://raw.githubusercontent.com/Shadyyym007/animation-templates/main/waving-hand/preview.gif",
       "thumbnailUrl": null,
-      "dataUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/animation-templates/main/waving-hand/template.json",
+      "dataUrl": "https://raw.githubusercontent.com/Shadyyym007/animation-templates/main/waving-hand/template.json",
       "featured": false
     }
   ],
